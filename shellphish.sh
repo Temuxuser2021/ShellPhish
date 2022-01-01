@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# ShellPhish v2.5-Mod
-# Moded by @AbirHasan2005
+# ShellPhish v3.0-Mod
+# Moded by @noobhackerraj Aka temuxuser2021
 
 # Join Telegram Group for help: http://t.me/linux_repo
 
